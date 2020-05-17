@@ -38,6 +38,6 @@ In this example, the customer's identification of the problem is influenced by t
 
 In [The Design Of Everyday Things](https://jnd.org/the-design-of-everyday-things-revised-and-expanded-edition/) Don Norman states "One of my rules in consulting is simple: never solve the problem I am asked to solve. Why such a counterintuitive rule? Because, invariably, the problem I am asked to solve is not the real, fundamental, root problem.  It is usually a symptom."
 
-Here are some additional resources for further reading on the Empathize phase:
+Here are some additional resources for further reading on Empathize phase:
 - [Guide to Building Empathy for your Users](https://careerfoundry.com/en/blog/ux-design/what-is-empathy-in-design-thinking/)
 - [Stanford Design Thinking Process Guide](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf)
